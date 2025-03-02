@@ -1,1 +1,1 @@
-Forked from jaganjavid/100-Project
+Forked from https://github.com/jaganjavid/100-Project.git
