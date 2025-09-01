@@ -61,4 +61,4 @@ This repository follows the same license as the original project. Please check t
 
 Lokeshwaran A
 
-💼 LinkedIn: linkedin.com/in/lokeshwaran-a-011b98288
+💼 LinkedIn: https://www.linkedin.com/in/lokeshwaran-a-011b98288/
