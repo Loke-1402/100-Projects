@@ -1,4 +1,4 @@
-🎯 100 Mini Projects
+🎯 100 Mini Projects <br><br>
 📖 Description
 
 This repository contains 100+ mini projects covering different programming concepts, ranging from beginner to intermediate level. Each project is designed to strengthen problem-solving skills and build practical coding experience.
