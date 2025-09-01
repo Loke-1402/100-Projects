@@ -23,7 +23,7 @@ This repository contains 100+ mini projects covering different programming conce
 
 Clone the repository:
 
-git clone https://github.com/your-username/100-Project.git
+git clone Forked from https://github.com/jaganjavid/100-Project.git
 
 
 Navigate into the project folder:
